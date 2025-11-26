@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+credentials.json
+token.json
+*.sqlite3
+polls_*.csv
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# logs
+*.log
